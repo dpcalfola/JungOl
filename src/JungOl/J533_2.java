@@ -6,6 +6,8 @@ public class J533_2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
+//        char gender = scan.next().charAt(0); // char 타입으로 입력 받는 방법 !!
+
         String gender = scan.next();
         int age = scan.nextInt();
         scan.close();
