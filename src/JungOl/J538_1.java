@@ -2,7 +2,7 @@ package JungOl;
 
 import java.util.Scanner;
 
-public class J538 {
+public class J538_1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
