@@ -6,3 +6,5 @@ Friday   , December, 31, 2021 : J533
 Monday   , January , 03, 2022 : J555 J556 J557 J558 J559
 Tuesday  , January , 04, 2022 : J534 J540 J535 J632
 Wednesday, January , 05, 2022 : 
+Thursday , January , 06, 2022 : 
+Friday   , January , 07, 2022 : 

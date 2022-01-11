@@ -9,7 +9,7 @@ public class J572 {
         scan.close();
 
         double area = areaOfACircle(r);
-        System.out.printf("%5.2f", area);
+        System.out.printf("%.2f", area);
     }
 
     private static double areaOfACircle(double r) {
