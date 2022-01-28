@@ -1,4 +1,4 @@
-package jungOl;
+package jungOl.j615;
 
 import java.util.Scanner;
 
@@ -30,7 +30,7 @@ public class J615_teacher {
     }
 }
 
-class Person {
+ class Person {
     private String name;
     private int kor;
     private int eng;
