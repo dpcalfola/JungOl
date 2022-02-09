@@ -1,4 +1,4 @@
-package jungOl.J614;
+package jungOl.j614;
 
 import java.util.Scanner;
 
